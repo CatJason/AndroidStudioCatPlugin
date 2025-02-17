@@ -10,7 +10,7 @@ import com.intellij.psi.util.PsiTreeUtil
 class AddPositionCheckQuickFix : LocalQuickFix {
 
     override fun getFamilyName(): String {
-        return "添加越界检查"
+        return "添加越界检查喵"
     }
 
     override fun applyFix(project: Project, descriptor: ProblemDescriptor) {
@@ -20,7 +20,7 @@ class AddPositionCheckQuickFix : LocalQuickFix {
         // 创建越界检查的代码片段
         val checkCode =
             "if (position < 0 || position >= data.size()) {\n" +
-                    "    return; // RecycleView Adapter 的 onBindViewHolder 存在数组越界的概率，需要做越界检查\n" +
+                    "    return; // RecycleView Adapter 的 onBindViewHolder 存在数组越界的概率，需要做越界检查喵\n" +
                     "}"
 
         // 使用 JavaPsiFacade 获取 PsiElementFactory
