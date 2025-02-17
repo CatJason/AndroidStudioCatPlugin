@@ -42,7 +42,7 @@ class RecycleViewInspection : AbstractBaseJavaLocalInspectionTool() {
                     // 如果没有越界检查，注册一个问题
                     holder.registerProblem(
                         method,
-                        "onBindViewHolder方法没有对position进行越界检查",
+                        "onBindViewHolder需要对position进行越界检查喵",
                         ProblemHighlightType.GENERIC_ERROR,
                         AddPositionCheckQuickFix()
                     )
