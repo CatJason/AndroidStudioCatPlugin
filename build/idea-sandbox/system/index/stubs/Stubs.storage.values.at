@@ -1,0 +1,171 @@
+#MANAGE_DEVICE_POLICY_BACKUP_SERVICEƒ!REQUEST_COMPANION_PROFILE_GLASSES≈	BIND_CONTROLSkBIND_WALLPAPERó#MANAGE_DEVICE_POLICY_SCREEN_CAPTUREÊREAD_MEDIA_AUDIOŸREAD_HOME_APP_SEARCH_DATA“LOCATIONFOREGROUND_SERVICEÈSET_TIME_ZONE˘	MOUNT_FORMAT_FILESYSTEMSÊMANAGE_DEVICE_LOCK_STATEÍMEDIA_ROUTING_CONTROL‡ MANAGE_DEVICE_POLICY_SYSTEM_APPSˆBODY_SENSORS_BACKGROUNDßCONTACTS%MANAGE_DEVICE_POLICY_APP_RESTRICTIONS˙"MANAGE_DEVICE_POLICY_FACTORY_RESET‡"SUBSCRIBE_TO_KEYGUARD_LOCKED_STATEÃ
+POST_NOTIFICATIONS˘MANAGE_DEVICE_POLICY_KEYGUARDÍ&MANAGE_DEVICE_POLICY_USB_FILE_TRANSFER¿!MANAGE_DEVICE_POLICY_AUDIO_OUTPUT¿"MANAGE_DEVICE_POLICY_PACKAGE_STATEÃKILL_BACKGROUND_PROCESSES‡(LAUNCH_CAPTURE_CONTENT_ACTIVITY_FOR_NOTE‚READ_INPUT_STATE‘MODIFY_PHONE_STATE‰
+DIAGNOSTIC€BROADCAST_STICKY≠(MANAGE_DEVICE_POLICY_USB_DATA_SIGNALLING˛	WAKE_LOCKÎ
+SET_ANIMATION_SCALEÏ	$MANAGE_DEVICE_POLICY_SUPPORT_MESSAGEÚMANAGE_DEVICE_POLICY_BLUETOOTH»MANAGE_DEVICE_POLICY_FUN‚INSTALL_SHORTCUTÿUSE_EXACT_ALARM‹
+BLUETOOTH_ADMINõSET_TIME˜	READ_NEARBY_STREAMING_POLICY·MANAGE_DEVICE_POLICY_SAFE_BOOT‰BROADCAST_SMS´SET_PROCESS_LIMITı		SET_ALARMË	1REQUEST_COMPANION_PROFILE_NEARBY_DEVICE_STREAMING«	#MANAGE_DEVICE_POLICY_SCREEN_CONTENTË"BIND_NOTIFICATION_LISTENER_SERVICE{DELETE_PACKAGES”#MANAGE_DEVICE_POLICY_RESET_PASSWORD‹BROADCAST_PACKAGE_REMOVED©&MANAGE_DEVICE_POLICY_RUN_IN_BACKGROUND‚BIND_COMPANION_DEVICE_SERVICEg'MANAGE_DEVICE_POLICY_CONTENT_PROTECTION÷,MANAGE_DEVICE_POLICY_INSTALL_UNKNOWN_SOURCESÊBLUETOOTH_ADVERTISEùSTORAGE'USE_FULL_SCREEN_INTENT·
+BIND_PRINT_SERVICE}BIND_VOICE_INTERACTIONëBIND_DEVICE_ADMINoMANAGE_DEVICE_POLICY_USERS¬ACCESS_WIFI_STATEI"MANAGE_DEVICE_POLICY_INPUT_METHODS‰READ_SMSÈ)START_FOREGROUND_SERVICES_FROM_BACKGROUNDƒ
+;REQUEST_COMPANION_START_FOREGROUND_SERVICES_FROM_BACKGROUNDœ	 PROVIDE_OWN_AUTOFILL_SUGGESTIONS˛(REQUEST_COMPANION_USE_DATA_IN_BACKGROUND—	FOREGROUND_SERVICE_HEALTHÒMANAGE_DEVICE_POLICY_BUGREPORT *MANAGE_DEVICE_POLICY_SUSPEND_PERSONAL_APPSÙBIND_QUICK_SETTINGS_TILEÅFOREGROUND_SERVICE_LOCATIONÛMANAGE_DEVICE_POLICY_DISPLAYﬁFOREGROUND_SERVICE_MICROPHONE˚WRITE_CONTACTSÛ
+"REQUEST_COMPANION_PROFILE_COMPUTER√	MANAGE_DEVICE_POLICY_SMSÓMANAGE_DEVICE_POLICY_CALLSÃPACKAGE_USAGE_STATSÙEXPAND_STATUS_BARÂVIBRATEÈ
+#USE_ICC_AUTH_WITH_DEVICE_IDENTIFIER„
+LOADER_USAGE_STATSÊNEARBY_WIFI_DEVICESÍCONTROL_LOCATION_UPDATES…%MANAGE_DEVICE_POLICY_LOCK_CREDENTIALSÚSET_WALLPAPER_HINTS˝	READ_ASSISTANT_APP_SEARCH_DATAƒMANAGE_ONGOING_CALLS‘CALL_COMPANION_APP±ACCESS_MEDIA_LOCATIONCHIGH_SAMPLING_RATE_SENSORS“SET_BIOMETRIC_DIALOG_ADVANCEDÓ	RECORD_AUDIO˚DUMPﬂGLOBAL_SEARCHŒ"MANAGE_DEVICE_POLICY_CAMERA_TOGGLE–CHANGE_COMPONENT_ENABLED_STATEªWRITE_VOICEMAILˇ
+#UPDATE_PACKAGES_WITHOUT_USER_ACTIONÿ
+BIND_MIDI_DEVICE_SERVICEwREAD_EXTERNAL_STORAGE–ACCEPT_HANDOVER3)MANAGE_DEVICE_POLICY_NEARBY_COMMUNICATIONƒ	READ_LOGS◊CHANGE_WIFI_STATE√NEARBY_DEVICESBIND_CONDITION_PROVIDER_SERVICEiMANAGE_DEVICE_POLICY_WIFI»MANAGE_DEVICE_POLICY_PRINTING–MANAGE_DEVICE_POLICY_VPNƒFOREGROUND_SERVICE_DATA_SYNCÔBIND_INPUT_METHODuREORDER_TASKS˝RECEIVE_BOOT_COMPLETEDÛREAD_BASIC_PHONE_STATE∆BIND_VR_LISTENER_SERVICEïSENSORS#BIND_SCREENING_SERVICEÖBIND_CARRIER_MESSAGING_SERVICE_&MANAGE_DEVICE_POLICY_ACROSS_USERS_FULLÚSET_WALLPAPER˚	#MANAGE_DEVICE_POLICY_ASSIST_CONTENT˛READ_MEDIA_VISUAL!CALENDARGET_ACCOUNTS≈DISABLE_KEYGUARD›READ_CONTACTSÃ$MANAGE_DEVICE_POLICY_NETWORK_LOGGING∆ACCESS_BACKGROUND_LOCATION5!MANAGE_DEVICE_POLICY_OVERRIDE_APN ACCESS_NOTIFICATION_POLICYGMODIFY_AUDIO_SETTINGS‚'MANAGE_DEVICE_POLICY_DEBUGGING_FEATURESÿCALL_PRIVILEGEDµMANAGE_DEVICE_POLICY_MTE¬TURN_SCREEN_ON“
+!MANAGE_DEVICE_POLICY_METERED_DATA¯BLUETOOTH_CONNECTüSTART_VIEW_APP_FEATURES∆
+#FOREGROUND_SERVICE_MEDIA_PROJECTION˘SMS%SMS_FINANCIAL_TRANSACTIONS¡
+REQUEST_COMPANION_SELF_MANAGEDÕ	BIND_VPN_SERVICEìREAD_SYNC_STATSÌBIND_NFC_SERVICEyANSWER_PHONE_CALLSQ"FOREGROUND_SERVICE_SYSTEM_EXEMPTED√ACCESS_HIDDEN_PROFILES?BIND_TV_INTERACTIVE_APPçACCESS_NETWORK_STATEERUN_USER_INITIATED_JOBS‡	"MANAGE_DEVICE_POLICY_APP_USER_DATA¸USE_SIPÂ
+READ_PHONE_NUMBERS„BIND_TEXT_SERVICEâ'MANAGE_DEVICE_POLICY_ACCOUNT_MANAGEMENTÓBIND_ACCESSIBILITY_SERVICEUINTERNETﬁCAPTURE_AUDIO_OUTPUTπACCESS_LOCATION_EXTRA_COMMANDSAREBOOTÒBIND_AUTOFILL_SERVICEYWRITE_SYNC_SETTINGS˝
+UNINSTALL_SHORTCUT‘
+REQUEST_DELETE_PACKAGES”	RECEIVE_WAP_PUSH˘	BLUETOOTHôBIND_CHOOSER_TARGET_SERVICEd	GET_TASKSÀMANAGE_DEVICE_POLICY_WINDOWS  BIND_CREDENTIAL_PROVIDER_SERVICEm%MANAGE_DEVICE_POLICY_SECURITY_LOGGINGÍREAD_MEDIA_AURALMANAGE_MEDIA“CALL_LOGMANAGE_DEVICE_POLICY_CAMERAŒ#MANAGE_DEVICE_POLICY_SYSTEM_DIALOGS¯BLUETOOTH_SCAN£BROADCAST_WAP_PUSHØBIND_REMOTEVIEWSÉUPDATE_DEVICE_STATS÷
+)REQUEST_OBSERVE_COMPANION_DEVICE_PRESENCEŸ	$REQUEST_IGNORE_BATTERY_OPTIMIZATIONS’	$MANAGE_DEVICE_POLICY_BLOCK_UNINSTALL∆#MANAGE_DEVICE_POLICY_PHYSICAL_MEDIAŒ3MANAGE_DEVICE_POLICY_ACROSS_USERS_SECURITY_CRITICALÙ/REQUEST_COMPANION_PROFILE_AUTOMOTIVE_PROJECTION¡	BATTERY_STATSS#MANAGE_DEVICE_POLICY_MOBILE_NETWORK˛FOREGROUND_SERVICE_CAMERAÎ&MANAGE_DEVICE_POLICY_MICROPHONE_TOGGLE¸READ_PRECISE_PHONE_STATEÁ)MANAGE_DEVICE_POLICY_RESTRICT_PRIVATE_DNSﬁBIND_CARRIER_SERVICESbMANAGE_DEVICE_POLICY_AUTOFILL¬INSTALL_LOCATION_PROVIDER‘)MANAGE_DEVICE_POLICY_QUERY_SYSTEM_UPDATES⁄READ_CALENDAR»PROCESS_OUTGOING_CALLS˚MANAGE_DEVICE_POLICY_TIME¸MANAGE_DEVICE_POLICY_WIPE_DATAÃBLUETOOTH_PRIVILEGED°GET_ACCOUNTS_PRIVILEGED«MANAGE_DEVICE_POLICY_STATUS_BARDETECT_SCREEN_RECORDINGŸ BIND_QUICK_ACCESS_WALLET_SERVICEMASTER_CLEAR‹RECEIVE_MMSıPERSISTENT_ACTIVITYˆ)MANAGE_DEVICE_POLICY_COMMON_CRITERIA_MODE‘READ_MEDIA_VIDEO›DETECT_SCREEN_CAPTURE◊(MANAGE_DEVICE_POLICY_PROFILE_INTERACTION÷MANAGE_DEVICE_POLICY_LOCATIONÓUSE_FINGERPRINTﬁ
+NFCÏWRITE_CALL_LOGÒ
+USE_BIOMETRIC⁄
+SET_PREFERRED_APPLICATIONSÚ	(CREDENTIAL_MANAGER_SET_ALLOWED_PROVIDERSÕNFC_TRANSACTION_EVENTMANAGE_DEVICE_POLICY_WALLPAPER∆CREDENTIAL_MANAGER_SET_ORIGINœ"MANAGE_DEVICE_POLICY_AIRPLANE_MODEˆINSTALL_PACKAGES÷GET_PACKAGE_SIZE…"MANAGE_DEVICE_POLICY_ACCESSIBILITYÏEXECUTE_APP_ACTION„#FOREGROUND_SERVICE_CONNECTED_DEVICEÌFOREGROUND_SERVICE_SPECIAL_USE¡!MANAGE_DEVICE_POLICY_ACROSS_USERSMANAGE_DEVICE_POLICY_PROFILES‘SEND_RESPOND_VIA_MESSAGE‰	MANAGE_EXTERNAL_STORAGE–#FOREGROUND_SERVICE_MEDIA_PROCESSING˜MANAGE_DEVICE_POLICY_LOCK_TASKÙ MANAGE_DEVICE_POLICY_PRIVATE_DNS“BODY_SENSORS•INTERACT_ACROSS_PROFILES‹UWB_RANGINGÁ
+SET_ALWAYS_FINISHÍ	MANAGE_OWN_CALLS÷$LAUNCH_MULTI_PANE_SETTINGS_DEEP_LINK‰BIND_TELECOM_CONNECTION_SERVICEá!MANAGE_DEVICE_POLICY_APPS_CONTROL¯WRITE_GSERVICES˜
+REQUEST_INSTALL_PACKAGES◊	(MANAGE_DEVICE_POLICY_RUNTIME_PERMISSIONS‡MOUNT_UNMOUNT_FILESYSTEMSËADD_VOICEMAILOACCESS_FINE_LOCATION=MANAGE_DEVICE_POLICY_PROXYÿ#MANAGE_DEVICE_POLICY_SYSTEM_UPDATES˙
+STATUS_BAR 
+*MANAGE_DEVICE_POLICY_ORGANIZATION_IDENTITY»READ_MEDIA_IMAGES€BIND_DREAM_SERVICEqREAD_PHONE_STATEÂENFORCE_UPDATE_OWNERSHIP·CAMERA˛ˇˇˇ∑RESTART_PACKAGES›	WRITE_EXTERNAL_STORAGEı
+READ_CALL_LOG QUERY_ALL_PACKAGES¬MANAGE_WIFI_NETWORK_SELECTION⁄MANAGE_DEVICE_POLICY_LOCALEÏ⁄‹&ÎÉ›ã’q‘ËÙ—ÌÏ›√∆÷android.accessibilityservice1android.accessibilityservice.AccessibilityServiceAccessibilityService.javaandroid.app.ServiceTakeScreenshotCallback	onSuccessp1ScreenshotResult	onFailureSoftKeyboardControllerOnShowModeChangedListeneronShowModeChangedp2ENABLE_IME_FAIL_BY_ADMIN1ENABLE_IME_FAIL_UNKNOWN2ENABLE_IME_SUCCESS0addOnShowModeChangedListenerlistenerhandlerandroid.os.HandlerremoveOnShowModeChangedListenergetShowModesetShowModeshowModeswitchToInputMethodimeIdsetInputMethodEnabledenabledjava.lang.SecurityExceptiongetColorSpaceandroid.graphics.ColorSpacegetHardwareBufferandroid.hardware.HardwareBuffergetTimestampMagnificationControllerOnMagnificationChangedListeneronMagnificationChangedandroid.graphics.Regionp3p4p5
+controllerregionconfig0android.accessibilityservice.MagnificationConfigaddListenerremoveListenergetMagnificationConfiggetScale
+getCenterX
+getCenterYgetMagnificationRegiongetCurrentMagnificationRegionresetanimateresetCurrentMagnificationsetMagnificationConfigsetScalescale	setCentercenterXcenterYGestureResultCallbackonCompletedgestureDescription/android.accessibilityservice.GestureDescriptiononCancelled$ERROR_TAKE_SCREENSHOT_INTERNAL_ERROR)ERROR_TAKE_SCREENSHOT_INTERVAL_TIME_SHORT3%ERROR_TAKE_SCREENSHOT_INVALID_DISPLAY4$ERROR_TAKE_SCREENSHOT_INVALID_WINDOW5-ERROR_TAKE_SCREENSHOT_NO_ACCESSIBILITY_ACCESS#ERROR_TAKE_SCREENSHOT_SECURE_WINDOW6GESTURE_2_FINGER_DOUBLE_TAP20$GESTURE_2_FINGER_DOUBLE_TAP_AND_HOLD40GESTURE_2_FINGER_SINGLE_TAP19GESTURE_2_FINGER_SWIPE_DOWN26GESTURE_2_FINGER_SWIPE_LEFT27GESTURE_2_FINGER_SWIPE_RIGHT28GESTURE_2_FINGER_SWIPE_UP25GESTURE_2_FINGER_TRIPLE_TAP21$GESTURE_2_FINGER_TRIPLE_TAP_AND_HOLD43GESTURE_3_FINGER_DOUBLE_TAP23$GESTURE_3_FINGER_DOUBLE_TAP_AND_HOLD41GESTURE_3_FINGER_SINGLE_TAP22$GESTURE_3_FINGER_SINGLE_TAP_AND_HOLD44GESTURE_3_FINGER_SWIPE_DOWN30GESTURE_3_FINGER_SWIPE_LEFT31GESTURE_3_FINGER_SWIPE_RIGHT32GESTURE_3_FINGER_SWIPE_UP29GESTURE_3_FINGER_TRIPLE_TAP24$GESTURE_3_FINGER_TRIPLE_TAP_AND_HOLD45GESTURE_4_FINGER_DOUBLE_TAP38$GESTURE_4_FINGER_DOUBLE_TAP_AND_HOLD42GESTURE_4_FINGER_SINGLE_TAP37GESTURE_4_FINGER_SWIPE_DOWN34GESTURE_4_FINGER_SWIPE_LEFT35GESTURE_4_FINGER_SWIPE_RIGHT36GESTURE_4_FINGER_SWIPE_UP33GESTURE_4_FINGER_TRIPLE_TAP39GESTURE_DOUBLE_TAP17GESTURE_DOUBLE_TAP_AND_HOLD18GESTURE_SWIPE_DOWNGESTURE_SWIPE_DOWN_AND_LEFT15GESTURE_SWIPE_DOWN_AND_RIGHT16GESTURE_SWIPE_DOWN_AND_UP8GESTURE_SWIPE_LEFTGESTURE_SWIPE_LEFT_AND_DOWN10GESTURE_SWIPE_LEFT_AND_RIGHTGESTURE_SWIPE_LEFT_AND_UP9GESTURE_SWIPE_RIGHTGESTURE_SWIPE_RIGHT_AND_DOWN12GESTURE_SWIPE_RIGHT_AND_LEFTGESTURE_SWIPE_RIGHT_AND_UP11GESTURE_SWIPE_UPGESTURE_SWIPE_UP_AND_DOWN7GESTURE_SWIPE_UP_AND_LEFT13GESTURE_SWIPE_UP_AND_RIGHT14GESTURE_UNKNOWN$GLOBAL_ACTION_ACCESSIBILITY_ALL_APPS"GLOBAL_ACTION_ACCESSIBILITY_BUTTON*GLOBAL_ACTION_ACCESSIBILITY_BUTTON_CHOOSER$GLOBAL_ACTION_ACCESSIBILITY_SHORTCUTGLOBAL_ACTION_BACK(GLOBAL_ACTION_DISMISS_NOTIFICATION_SHADEGLOBAL_ACTION_DPAD_CENTERGLOBAL_ACTION_DPAD_DOWNGLOBAL_ACTION_DPAD_LEFTGLOBAL_ACTION_DPAD_RIGHTGLOBAL_ACTION_DPAD_UPGLOBAL_ACTION_HOME!GLOBAL_ACTION_KEYCODE_HEADSETHOOKGLOBAL_ACTION_LOCK_SCREENGLOBAL_ACTION_NOTIFICATIONSGLOBAL_ACTION_POWER_DIALOGGLOBAL_ACTION_QUICK_SETTINGSGLOBAL_ACTION_RECENTSGLOBAL_ACTION_TAKE_SCREENSHOT!GLOBAL_ACTION_TOGGLE_SPLIT_SCREENSERVICE_INTERFACE3"android.accessibilityservice.AccessibilityService"SERVICE_META_DATA"android.accessibilityservice"SHOW_MODE_AUTOSHOW_MODE_HIDDENSHOW_MODE_IGNORE_HARD_KEYBOARDAccessibilityServiceonAccessibilityEvent-android.view.accessibility.AccessibilityEventonInterruptonServiceConnected	onGesture	gestureIdgestureEvent6android.accessibilityservice.AccessibilityGestureEvent
+onKeyEventeventandroid.view.KeyEventonMotionEventandroid.view.MotionEvent
+getWindowsjava.util.List2android.view.accessibility.AccessibilityWindowInfogetWindowsOnAllDisplaysandroid.util.SparseArraygetRootInActiveWindow0android.view.accessibility.AccessibilityNodeInfoprefetchingStrategydisableSelfcreateDisplayContextandroid.content.Contextdisplayandroid.view.DisplaycreateWindowContexttypeoptionsandroid.os.BundlegetMagnificationControllergetFingerprintGestureController9android.accessibilityservice.FingerprintGestureControllerdispatchGesturegesturecallbackgetSoftKeyboardControlleronCreateInputMethod(android.accessibilityservice.InputMethodgetInputMethod getAccessibilityButtonController:android.accessibilityservice.AccessibilityButtonController	displayIdsetCacheEnabledclearCachedSubtreenode
+clearCacheisNodeInCacheisCacheEnabledonSystemActionsChangedgetSystemActionsAccessibilityActionperformGlobalActionaction	findFocusfocusgetServiceInfo5android.accessibilityservice.AccessibilityServiceInfosetServiceInfoinfogetSystemServicenametakeScreenshotexecutorjava.util.concurrent.ExecutortakeScreenshotOfWindowaccessibilityWindowIdsetAccessibilityFocusAppearancestrokeWidthcoloronBindandroid.os.IBinderintentandroid.content.Intent$setGestureDetectionPassthroughRegion$setTouchExplorationPassthroughRegionsetAnimationScalegetTouchInteractionController7android.accessibilityservice.TouchInteractionController#attachAccessibilityOverlayToDisplayscandroid.view.SurfaceControl"attachAccessibilityOverlayToWindowgetBrailleDisplayController5android.accessibilityservice.BrailleDisplayController ˛Ö  	    	
+:  = 
+@G  H  Q  T	Y 
+\G `G dG hk   
+mp  q	
+mp  q	x	|
+ôp  q	
+úp   
+üp  ¢ 
+•p  ®	
+´p  ®	Æ 
+±¥G  ªk   
+æp	  
+¬p	  
+∆p   
+…G  –  Ÿ	‹ Ú	˜	˚ ˛ ¡ 
+ƒ«  …	Œ	“	
+÷k   
+Ÿp  ‹	
+Ÿp  ‹	x	|
+„p  ‹	
+Êp	|  
+Íp	‹  
+Ìp	‹  
+p	‹  
+Ûp	‹	  
+˜p	  
+˚p  ˛ 
+¡p  ˛ 
+ƒp  “	˛ 
+«p	‹   ˛ 
+Õp	‹ – ” ˛ 
+÷  ›p   
+‡p  „ 
+Áp  „ 
+ÍG ÓG ÚG ˆG ˙G ˛G ¬G ∆G  G ŒG “G ÷G ⁄G ﬁG ‚G ÊG ÍG ÓG ÚG ˆG ˙G ˛G ¬G ∆G  G ŒG “G ÷G ⁄G ﬁG ‚G ÊG ÍG ÓG ÚG ˆG ˙G ˛G ¬G ∆G  G ŒG “G ÷G ⁄G ﬁG ‚G ÊG ÍG ÓG ÚG ˆG ˙G ˛G ¬	G ∆	G  	G Œ	G “	G ÷	G ⁄	G ﬁ	G ‚	G Ê	G Í	G Ó	G Ú	G ˆ	G ˙	G ˛	G ¬
+G ∆
+G  
+G Œ
+G “
+G ÷
+G ⁄
+G ﬂ
+p   
+„
+  Á
+ 
+Ï
+   
+
+Ù
+   
+ı
+Ù
+	‹ ˘
+ 
+˝
+p  ¡	
+«Ù
+  À 
+—p  ’	
+€p   
+ÂÛ	  
+Ùp   
+Ùp	| ˙ 
+˛Û   
+¬p	» Ì 
+Ûp	 ˘ ˝	|
+Ûp	 Ì	˘ ˝	|
+√Û	  
+…Û	  
+œÛ  ”	ÿ	|x	|
+ﬁÛ	  
+‰p	  
+ÍÛ	|  
+Û	  
+Û	 ˆ 
+˙p  Æ 
+˛p  ¬	
+»p   
+Ãp  ¬	
+–p   
+‘p   
+ÿÛ	  
+‰Û  Ë 
+Ïp  Ú 
+ˆÛ   
+¸Û  ¿ 
+∆p   	»
+Œp  ˆ “	ÿ	
+ﬁp  ‚ “	ÿ	
+Êp  Í Ó 
+ÚÛ  ¯ 
+˛p  ˆ Œ	
+¬p  ˆ Œ	
+∆p    
+ Û	 ˆ 
+–p  ˆ ‘	
+⁄p  ‚ ‘	
+ﬁÛ	  
+„   ¡   … @android.annotation.NonNull	    
+  
+ 
+   
+¿@ 
+  @android.annotation.Nullable            !" #$ %    &  &'(@java.lang.Deprecated&)*+,( ¡-& .) /0 &1 &' 2 30 4567)8) 9 : ; < => ?@ A    BBC DE F G HI JK LM N OP QR ST UV WX YZ [\ ]^ _` ab cd ef gh ij kl mn op qr st uv wx yz {| }~ Ä ÅÇ ÉÑ ÖÜ áà âä ã åç éè êë íI ìî ïM ñó òK ôö õP úù û ü† °¢ £§ • ¶§ ßù ®ö ©¢ ™ ´ç ¨R ≠à Æä ØV ∞è ± ≤î ≥ë ¥K µP ∂M ∑I ∏ó π† ∫ª ºΩ æ ø ¿ ¡¬ √ƒ ≈ ∆« ∆ »…   ÀÃ Õ ÀŒ œ–— “”–— ‘’ ÷ ◊ ÿŸ $@androidx.annotation.RecentlyNonNull⁄€ ‹Ÿ › ﬁﬂ ‡& ·‚ „ ‰E ÂB Ê
+ ÁË ÈË ÍÎ Ï Ì Ó Ô’  Ò Ú Û Ù–’ı ˆ ˜ ¯’ ˘ ˙˚ ¸ ˝˚ ˛ ˇ ¿ ¡¬ Â √ ƒ ≈ ∆ « »…  À Ã Õ Œ œ– — “” ‘ ’÷ ≈x	i“AccessibilityEvent·SurfaceControl˛ˇˇˇ‰ÓBundle˛ˇˇˇˆ¡	Executor˛ˇˇˇ◊‰TakeScreenshotCallback˛ˇˇˇ◊‰SoftKeyboardController$MotionEvent…AccessibilityGestureEvent˙Region¸ˇˇˇó©¡ÀScreenshotResultIntent˙MagnificationConfig˛ˇˇˇ© Handler˝ˇˇˇAƒ€	AccessibilityServiceInfo»Display˛ˇˇˇÓ¡	MagnificationController˛ˇˇˇó©OnShowModeChangedListener˝ˇˇˇ9ALKeyEvent¬GestureResultCallback€	OnMagnificationChangedListener˝ˇˇˇºƒœString˝ˇˇˇ`hœAccessibilityNodeInfo˛ˇˇˇ–
+›
+GestureDescription˝ˇˇˇÙ˚€	f¯&	onSuccessGLOBAL_ACTION_RECENTSÃonMagnificationChanged˛ˇˇˇó©$GESTURE_2_FINGER_DOUBLE_TAP_AND_HOLD–GLOBAL_ACTION_DPAD_CENTERˆGESTURE_SWIPE_RIGHT_AND_UPﬁGESTURE_SWIPE_RIGHT_AND_DOWN⁄onShowModeChanged$SHOW_MODE_HIDDENÿ-ERROR_TAKE_SCREENSHOT_NO_ACCESSIBILITY_ACCESS GESTURE_SWIPE_LEFT_AND_RIGHT‘GLOBAL_ACTION_TAKE_SCREENSHOTŒGESTURE_3_FINGER_TRIPLE_TAPGLOBAL_ACTION_NOTIFICATIONS∆$ERROR_TAKE_SCREENSHOT_INVALID_WINDOW»GESTURE_3_FINGER_SWIPE_UPÓGESTURE_2_FINGER_SINGLE_TAP“!GLOBAL_ACTION_KEYCODE_HEADSETHOOK¬GESTURE_2_FINGER_TRIPLE_TAP‹*GLOBAL_ACTION_ACCESSIBILITY_BUTTON_CHOOSERÓGESTURE_2_FINGER_SWIPE_LEFT÷%ERROR_TAKE_SCREENSHOT_INVALID_DISPLAY∆GESTURE_SWIPE_DOWN_AND_LEFT GESTURE_SWIPE_LEFT–GESTURE_DOUBLE_TAPƒ$GESTURE_3_FINGER_TRIPLE_TAP_AND_HOLDÚGESTURE_4_FINGER_SWIPE_UP¿$GLOBAL_ACTION_ACCESSIBILITY_SHORTCUT#ERROR_TAKE_SCREENSHOT_SECURE_WINDOWÃENABLE_IME_SUCCESS2GESTURE_SWIPE_UP_AND_RIGHTÊGESTURE_SWIPE_DOWN_AND_RIGHTÃ$ERROR_TAKE_SCREENSHOT_INTERNAL_ERROR¬GLOBAL_ACTION_HOME¿GESTURE_2_FINGER_DOUBLE_TAPŒSHOW_MODE_IGNORE_HARD_KEYBOARD⁄GESTURE_SWIPE_RIGHT_AND_LEFT‹$GESTURE_4_FINGER_DOUBLE_TAP_AND_HOLDˆGESTURE_2_FINGER_SWIPE_DOWN‘GESTURE_UNKNOWNËGESTURE_DOUBLE_TAP_AND_HOLD∆	onFailureSHOW_MODE_AUTO÷SERVICE_META_DATA‘GLOBAL_ACTION_DPAD_RIGHT¸!GLOBAL_ACTION_TOGGLE_SPLIT_SCREEN–GESTURE_2_FINGER_SWIPE_RIGHTÿGLOBAL_ACTION_QUICK_SETTINGS GESTURE_SWIPE_RIGHTÿ$GESTURE_3_FINGER_SINGLE_TAP_AND_HOLDÊGESTURE_SWIPE_LEFT_AND_DOWN“GLOBAL_ACTION_LOCK_SCREENƒGLOBAL_ACTION_DPAD_UP˛GESTURE_SWIPE_DOWN»GESTURE_3_FINGER_SINGLE_TAP‰$GESTURE_2_FINGER_TRIPLE_TAP_AND_HOLDﬁENABLE_IME_FAIL_UNKNOWN0GLOBAL_ACTION_BACKÚENABLE_IME_FAIL_BY_ADMIN.GESTURE_SWIPE_DOWN_AND_UPŒGLOBAL_ACTION_DPAD_DOWN¯$GLOBAL_ACTION_ACCESSIBILITY_ALL_APPSÍGESTURE_3_FINGER_SWIPE_LEFTÍ$GESTURE_3_FINGER_DOUBLE_TAP_AND_HOLD‚GESTURE_4_FINGER_SWIPE_DOWN˙GESTURE_SWIPE_UP_AND_DOWN‚GESTURE_4_FINGER_DOUBLE_TAPÙGESTURE_3_FINGER_DOUBLE_TAP‡SERVICE_INTERFACE“GESTURE_3_FINGER_SWIPE_DOWNËGESTURE_4_FINGER_SWIPE_LEFT¸GESTURE_2_FINGER_SWIPE_UP⁄GESTURE_4_FINGER_TRIPLE_TAP¬"GLOBAL_ACTION_ACCESSIBILITY_BUTTONÏGLOBAL_ACTION_DPAD_LEFT˙)ERROR_TAKE_SCREENSHOT_INTERVAL_TIME_SHORTƒGLOBAL_ACTION_POWER_DIALOG»(GLOBAL_ACTION_DISMISS_NOTIFICATION_SHADEÙGESTURE_4_FINGER_SINGLE_TAP¯GESTURE_SWIPE_UP_AND_LEFT‰GESTURE_SWIPE_LEFT_AND_UP÷GESTURE_3_FINGER_SWIPE_RIGHTÏGESTURE_SWIPE_UP‡GESTURE_4_FINGER_SWIPE_RIGHT˛g¡intÚ˛ˇˇ.02¬ƒ∆» ÃŒ–“‘÷ÿ⁄‹ﬁ‡‚‰ÊËÍÏÓÚÙˆ¯˙¸˛¿¬ƒ∆» ÃŒ–“‘÷ÿ⁄‹ﬁ‡‚‰ÊËÍÏÓÚÙˆ¯˙¸˛¿¬ƒ∆» ÃŒ–÷ÿ⁄String˛ˇˇˇ“‘void˚ˇˇˇ$ó©e»createWindowContext˛ˇˇˇˆ¡	onInterruptË	onSuccess	findFocus¸
+onMagnificationChanged˛ˇˇˇó©clearCachedSubtree–
+addListener˛ˇˇˇºƒonCompletedÙgetCurrentMagnificationRegionˆonCancelled˚getMagnificationConfig◊#attachAccessibilityOverlayToDisplay‰onShowModeChanged$
+onKeyEvent¬$setGestureDetectionPassthroughRegion¡MagnificationController∑getTimestampàremoveOnShowModeChangedListenerL	onGesture˛ˇˇˇÚ˙dispatchGesture€	GestureResultCallbackÔcreateDisplayContextÓonCreateInputMethodÔ	addOnShowModeChangedListener˛ˇˇˇ9A
+getCenterX„onAccessibilityEvent·getSystemServiceœgetSystemActionsÔ
+setShowModeYsetMagnificationConfig setScale‘onMotionEvent…getRootInActiveWindow˛ˇˇˇ‹·"attachAccessibilityOverlayToWindowÓgetMagnificationRegionÔtakeScreenshotOfWindow‰getHardwareBufferÇswitchToInputMethod`disableSelfÈsetAccessibilityFocusAppearanceÒ
+getWindows—removeListenerœisCacheEnabledÂ
+reset¸setAnimationScale’getFingerprintGestureController’	getShowModeT	onFailuresetCacheEnabled…
+getServiceInfo√performGlobalActionı
+
+getCenterYÈisNodeInCache›
+takeScreenshot◊
+clearCacheÿ
+getBrailleDisplayController¯onSystemActionsChangedÍ
+$setTouchExplorationPassthroughRegionÀonBind˙resetCurrentMagnification√setServiceInfo»SoftKeyboardController4getMagnificationControllerœ		setCenterﬁ getAccessibilityButtonController˛ˇˇˇ˚	¡
+ScreenshotResultwgetScale›onServiceConnectedÌAccessibilityService‹setInputMethodEnabledhgetTouchInteractionController‹getInputMethodı	getColorSpace|getSoftKeyboardControllerÈ	getWindowsOnAllDisplays÷k)ŒFÇrF£ÛáJ˛éœÃXg,Í≠II çÿ.—≠œfÃp"íjƒSoftKeyboardControllerTakeScreenshotCallbackScreenshotResultrAccessibilityServiceMagnificationControllerçOnShowModeChangedListenerOnMagnificationChangedListeneríGestureResultCallbackÍc	Serviceb≤RecentlyNonNull˛ˇˇˇ’
+Deprecated¯ˇˇˇôﬂÂÎÒ÷‡ÙNonNull“ˇˇˇ*?GRfn~Ñû°Ø≤µ¬ ’Ú¯–¿œÿ¯√	»	—	◊	·	Î	Ò	˝	√
+÷
+„
+Ò
+ﬂ‚ÏÔ…”ﬁÏˆ˙Nullable˜ˇˇˇJÕŸ„ˇÕ	‰	Á	˜	dÒ%GLOBAL_ACTION_RECENTSÃ$GESTURE_2_FINGER_DOUBLE_TAP_AND_HOLD–GLOBAL_ACTION_DPAD_CENTERˆGESTURE_SWIPE_RIGHT_AND_UPﬁGESTURE_SWIPE_RIGHT_AND_DOWN⁄SHOW_MODE_HIDDENÿ-ERROR_TAKE_SCREENSHOT_NO_ACCESSIBILITY_ACCESS GESTURE_SWIPE_LEFT_AND_RIGHT‘GLOBAL_ACTION_TAKE_SCREENSHOTŒGESTURE_3_FINGER_TRIPLE_TAPGLOBAL_ACTION_NOTIFICATIONS∆$ERROR_TAKE_SCREENSHOT_INVALID_WINDOW»GESTURE_3_FINGER_SWIPE_UPÓGESTURE_2_FINGER_SINGLE_TAP“!GLOBAL_ACTION_KEYCODE_HEADSETHOOK¬GESTURE_2_FINGER_TRIPLE_TAP‹*GLOBAL_ACTION_ACCESSIBILITY_BUTTON_CHOOSERÓGESTURE_2_FINGER_SWIPE_LEFT÷%ERROR_TAKE_SCREENSHOT_INVALID_DISPLAY∆GESTURE_SWIPE_DOWN_AND_LEFT GESTURE_SWIPE_LEFT–GESTURE_DOUBLE_TAPƒ$GESTURE_3_FINGER_TRIPLE_TAP_AND_HOLDÚGESTURE_4_FINGER_SWIPE_UP¿$GLOBAL_ACTION_ACCESSIBILITY_SHORTCUT#ERROR_TAKE_SCREENSHOT_SECURE_WINDOWÃENABLE_IME_SUCCESS2GESTURE_SWIPE_UP_AND_RIGHTÊGESTURE_SWIPE_DOWN_AND_RIGHTÃ$ERROR_TAKE_SCREENSHOT_INTERNAL_ERROR¬GLOBAL_ACTION_HOME¿GESTURE_2_FINGER_DOUBLE_TAPŒSHOW_MODE_IGNORE_HARD_KEYBOARD⁄GESTURE_SWIPE_RIGHT_AND_LEFT‹$GESTURE_4_FINGER_DOUBLE_TAP_AND_HOLDˆGESTURE_2_FINGER_SWIPE_DOWN‘GESTURE_UNKNOWNËGESTURE_DOUBLE_TAP_AND_HOLD∆SHOW_MODE_AUTO÷SERVICE_META_DATA‘GLOBAL_ACTION_DPAD_RIGHT¸!GLOBAL_ACTION_TOGGLE_SPLIT_SCREEN–GESTURE_2_FINGER_SWIPE_RIGHTÿGLOBAL_ACTION_QUICK_SETTINGS GESTURE_SWIPE_RIGHTÿ$GESTURE_3_FINGER_SINGLE_TAP_AND_HOLDÊGESTURE_SWIPE_LEFT_AND_DOWN“GLOBAL_ACTION_LOCK_SCREENƒGLOBAL_ACTION_DPAD_UP˛GESTURE_SWIPE_DOWN»GESTURE_3_FINGER_SINGLE_TAP‰$GESTURE_2_FINGER_TRIPLE_TAP_AND_HOLDﬁENABLE_IME_FAIL_UNKNOWN0GLOBAL_ACTION_BACKÚENABLE_IME_FAIL_BY_ADMIN.GESTURE_SWIPE_DOWN_AND_UPŒGLOBAL_ACTION_DPAD_DOWN¯$GLOBAL_ACTION_ACCESSIBILITY_ALL_APPSÍGESTURE_3_FINGER_SWIPE_LEFTÍ$GESTURE_3_FINGER_DOUBLE_TAP_AND_HOLD‚GESTURE_4_FINGER_SWIPE_DOWN˙GESTURE_SWIPE_UP_AND_DOWN‚GESTURE_4_FINGER_DOUBLE_TAPÙGESTURE_3_FINGER_DOUBLE_TAP‡SERVICE_INTERFACE“GESTURE_3_FINGER_SWIPE_DOWNËGESTURE_4_FINGER_SWIPE_LEFT¸GESTURE_2_FINGER_SWIPE_UP⁄GESTURE_4_FINGER_TRIPLE_TAP¬"GLOBAL_ACTION_ACCESSIBILITY_BUTTONÏGLOBAL_ACTION_DPAD_LEFT˙)ERROR_TAKE_SCREENSHOT_INTERVAL_TIME_SHORTƒGLOBAL_ACTION_POWER_DIALOG»(GLOBAL_ACTION_DISMISS_NOTIFICATION_SHADEÙGESTURE_4_FINGER_SINGLE_TAP¯GESTURE_SWIPE_UP_AND_LEFT‰GESTURE_3_FINGER_SWIPE_RIGHTÏGESTURE_SWIPE_LEFT_AND_UP÷GESTURE_SWIPE_UP‡GESTURE_4_FINGER_SWIPE_RIGHT˛ÍÈ'     Ã§(     “§(     ¡∑(     ¬∑(      ∑(     …∑(     —∑(     ◊∑(     ÿ∑(     “∑(     ‹∑(     ›∑(     „∑(     ∑(     Ô∑(     ‚∑(     ¸∑(     Á∑(     Ë∑(     ı∑(     ˆ∑(     ¡∏(     ˚∑(     ¿∏(     ∆∏(     Õ∏(     «∏(     ‘∏(     Œ∏(     ’∏(     ◊∏(     ‹∏(     „∏(     ‰∏(     Í∏(     ÿ∏(     Î∏(     ﬁ∏(     ·⁄(     ‡⁄(     €⁄(     ‹⁄(     Ê⁄(     Ì⁄(     Á⁄(     Ó⁄( »
+’˙Àq‘ËÙ—Ì=Ï›√com.jason.mynanohttpdandroidx.fragment.app.Fragmentandroid.content.Contextandroid.os.Bundleandroid.view.LayoutInflaterandroid.view.Viewandroid.view.ViewGroup$com.jason.mynanohttpd.CustomFragmentFragmentonAttachcontextContextonCreatesavedInstanceStateBundleonCreateViewViewinflaterLayoutInflater	container	ViewGrouponActivityCreatedonStartonResume  ˇC    	  
+    	
+  %  )	
+  ,  0	
+  4 8 ,  <	
+  ,  ?	
+    B	
+    D          	 
+ 	@Override         ªi3Bundle˝ˇˇˇ,	ViewGroupContextLayoutInflatereHonResume<onStart5onCreateViewonCreateonActivityCreated,onAttachkµ"SjCustomFragmentc
+FragmentbOverride˙ˇˇˇ!.7>—≥…oÂˇdistributionBasedistributionPathdistributionUrlzipStoreBasezipStorePath       TaQzipStoreBasedistributionUrldistributionBasedistributionPathzipStorePath“Ê

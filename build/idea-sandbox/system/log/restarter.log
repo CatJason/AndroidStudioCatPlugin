@@ -1,0 +1,5 @@
+============= 2025-02-13 06:25:43.122238 UTC
+    0 [info ] args: ["/Applications/Android Studio.app/Contents/bin/restarter", "3769", "3", "/usr/bin/open", "-n", "/Applications/Android Studio.app"]
+    0 [info ] CWD: Ok("/Users/jason")
+    0 [info ] waiting for 3769
+  517 [info ] exec-ing: ["/usr/bin/open", "-n", "/Applications/Android Studio.app"]

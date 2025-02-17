@@ -1,0 +1,222 @@
+<?xml version="1.0"?>
+<!--
+  ~ Copyright (C) 2019 The Android Open Source Project
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~      http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+<tutorialBundle
+    name="What's New"
+    resourceRoot="/"
+    stepByStep="false"
+    hideStepIndex="true"
+    version="2024.2.2.00">
+  <feature
+      name="What's New in Ladybug Feature Drop">
+    <tutorial
+        key="whats-new"
+        label=" What's New in Ladybug Feature Drop"
+        icon="stable/product-icon.svg"
+        remoteLink="https://d.android.com/r/studio-ui/whats-new-assistant/preview-release-notes/2024-2-2"
+        remoteLinkLabel="Read in a browser">
+      <description>
+        <![CDATA[
+          This panel describes some of the new features and behavior changes
+          included in this update.
+          <br><br>
+          To open this panel again later, select <b>Help &gt; What's New in Android Studio</b>
+          from the main menu.
+          ]]>
+      </description>
+      <step label="Wear Tiles Animation Preview">
+        <stepElement>
+          <section>
+            <![CDATA[
+            <p>Android Studio Ladybug Canary 2+ now supports Wear Tile Animation Previews,
+            making it easier than ever to inspect and debug your
+            <a href="https://d.android.com/training/wearables/tiles/animations">tile animations</a>
+            directly within the IDE. This feature builds upon the
+            <a href="https://d.android.com/training/wearables/tiles/preview">Wear Tiles Preview</a>
+            support introduced in Android Studio Koala.</p>
+            <br>
+            <p>This enhancement streamlines your Wear Tile development workflow by providing
+            a visual and interactive way to fine-tune your tile animations within Android Studio.</p>
+            <br>
+            <a href="https://d.android.com/r/studio-ui/test/wear-tiles-animation-preview">Learn more</a>
+            <br>
+            ]]>
+          </section>
+        </stepElement>
+      </step>
+      <step label="Motion Editor deprecation">
+        <stepElement>
+          <section>
+            <![CDATA[
+            <p>Ladybug Feature Drop deprecates the
+            <a href="https://developer.android.com/studio/write/motion-editor">Motion Editor</a> as
+            part of the ongoing transition from XML to
+            <a href="https://developer.android.com/compose">Jetpack Compose</a>. Compose offers a more
+            modern and efficient approach to building animations, and we encourage developers to start using
+            <a href="https://developer.android.com/develop/ui/compose/tooling/animation-preview">Compose Animation Preview</a>
+            for new projects.</p>
+            <br>
+            <a href="https://d.android.com/r/studio-ui/build/motion-editor-deprecation">Learn more</a>
+            <br>
+            ]]>
+          </section>
+        </stepElement>
+      </step>
+      <step label="Gemini code transforms">
+        <stepElement>
+          <section>
+            <![CDATA[
+            <p>Provide custom prompts for Gemini in Android Studio to generate code suggestions. You
+            can ask Gemini to simplify complex code by rewriting it, perform very specific code
+            transformations such as "make this code idiomatic," or generate new functions you
+            describe. Android Studio then shows you Gemini's code suggestion as a code diff, so that
+            you can review and accept only the suggestions you want.
+            </p>
+            <br>
+            <a href="https://d.android.com/r/studio-ui/gemini/code-suggestions">Learn more</a>
+            <br>
+            ]]>
+          </section>
+        </stepElement>
+      </step>
+      <step label="Generate Documentation with Gemini in Android Studio">
+        <stepElement>
+          <section>
+            <![CDATA[
+            <p>Use Gemini in Android Studio to generate documentation for your code. Generate clear
+             and concise documentation for your code with instant drafts that you can refine
+              and perfect in seconds.
+            </p>
+            <br>
+            <a href="https://d.android.com/r/studio-ui/gemini/generate-documentation">Learn more</a>
+            <br>
+            ]]>
+          </section>
+        </stepElement>
+      </step>
+      <step label="Rename with Gemini">
+        <stepElement>
+          <section>
+            <![CDATA[
+            <p>When using the standard <b>Refactor > Rename</b> action renaming variables, classes,
+            and methods, Gemini now suggests appropriate names based on the code context.</p>
+            <br>
+            <a href="https://d.android.com/r/studio-ui/gemini/rename">Learn more</a>
+            <br>
+            ]]>
+          </section>
+        </stepElement>
+      </step>
+      <step label="Rethink variable names">
+        <stepElement>
+          <section>
+            <![CDATA[
+            <p>Gemini can suggest names for all variables in a file or method based on the code
+            context, so that names are more intuitive and descriptive. Simply right-click in
+            the code editor and select <b>Gemini > Rethink variable names</b>. You should see a
+            dialog where you can review the suggested names and accept only the ones you like.</p>
+            <br>
+            <a href="https://d.android.com/r/studio-ui/gemini/rethink-variables">Learn more</a>
+            <br>
+            ]]>
+          </section>
+        </stepElement>
+      </step>
+      <step label="Suggest commit message">
+        <stepElement>
+          <section>
+            <![CDATA[
+            <p>When committing changes to your version control system from the IDE, Gemini can
+            now use the context from the code changes in the current commit and recent past commits
+            to suggest a detailed commit message. To generate a commit message, click the
+            <b>Suggest commit message</b> button above the text input field in the <b>Commit</b>
+            tool window.</p>
+            <br>
+            <a href="https://d.android.com/r/studio-ui/gemini/commit-message">Learn more</a>
+            <br>
+            ]]>
+          </section>
+        </stepElement>
+      </step>
+      <step label="Google Play SDK Index integration">
+        <stepElement>
+          <section>
+            <![CDATA[
+            <p>The Android Studio
+            <a href="https://d.android.com/build/dependencies#sdk-insights">Google Play SDK Index integration</a>
+            now includes warnings from the
+            <a href="https://android-developers.googleblog.com/2024/05/build-better-safer-sdks-google-play-sdk-console.html">Google Play SDK Console</a>.
+            This gives you a complete view of any potential version or policy issues in your
+            dependencies before submitting your app to the Google Play Console.
+            </p>
+            <br>
+            <a href="https://d.android.com/r/studio-ui/build/play-sdk-index">Learn more</a>
+            <br>
+            ]]>
+          </section>
+        </stepElement>
+      </step>
+      <step label="Mock sensor capabilities and values">
+        <stepElement>
+          <section>
+            <![CDATA[
+            <p>Android Studio now includes a new sensor panel, which lets you simulate a device
+            having or not having specific sensor capabilities, such as a heart rate sensor, as well
+            as set specific test values for these sensors. Use this panel to test how your app
+            handles devices that have different sensor capabilities. This panel is useful for
+            testing health and fitness apps, especially on Wear OS devices.
+            </p>
+            <br>
+            <a href="https://d.android.com/r/studio-ui/test/mock-sensor-capabilities-values">Learn more</a>
+            <br>
+            ]]>
+          </section>
+        </stepElement>
+      </step>
+      <step label="App Links Assistant: JSON generation and web issue fixes">
+        <stepElement>
+          <section>
+            <![CDATA[
+            <p>To implement App Links, developers need to publish a Digital Asset Links JSON
+            file on their websites to verify ownership of the domain. When the App Links Assistant
+            identifies failed web checks, it now creates a JSON file which can fix those failures.
+            This JSON file can be downloaded by the user and subsequently uploaded to the respective
+            website to resolve the web check failures.</p>
+            <br>
+            <p>In cases where a JSON file already exists, users have the ability to compare the
+            existing and newly-generated JSON files to identify differences.</p>
+            <br>
+            <p>To open the App Links Assistant navigate to <b>Tools > App Link Assistant</b> from
+            the main menu bar.</p>
+            <br>
+            <a href=https://d.android.com/r/studio-ui/test/app-links-json">Learn more</a>
+            <br>
+            ]]>
+          </section>
+        </stepElement>
+      </step>
+      <footerStep label="">
+        <stepElement>
+          <section>
+            <![CDATA[
+              <br><em>Last updated 01/09/2025</em><br>
+            ]]>
+          </section>
+        </stepElement>
+      </footerStep>
+    </tutorial>
+  </feature>
+</tutorialBundle>

@@ -1,0 +1,11 @@
+<project>
+  <component name="ExternalProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/MyNanoHttpd.iml" filepath="$PROJECT_DIR$/.idea/MyNanoHttpd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MyNanoHttpd.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MyNanoHttpd.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MyNanoHttpd.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MyNanoHttpd.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MyNanoHttpd.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MyNanoHttpd.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MyNanoHttpd.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MyNanoHttpd.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>

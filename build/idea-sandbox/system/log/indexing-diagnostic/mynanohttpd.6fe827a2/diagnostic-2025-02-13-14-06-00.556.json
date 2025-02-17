@@ -1,0 +1,64 @@
+{
+  "appInfo" : {
+    "build" : "242.23726.103.2422.12816248",
+    "buildDate" : "2024-12-18T01:33:00Z[UTC]",
+    "productCode" : "AI",
+    "generated" : "2025-02-13T06:06:00.556471Z",
+    "os" : "macOS 15.3",
+    "runtime" : "JetBrains s.r.o. 21.0.4 21.0.4+-12422083-b607.1"
+  },
+  "runtimeInfo" : {
+    "maxMemory" : 2147483648,
+    "numberOfProcessors" : 32,
+    "maxNumberOfIndexingThreads" : 31,
+    "maxSizeOfFileForIntelliSense" : 2560000,
+    "maxSizeOfFileForContentLoading" : 20971520
+  },
+  "type" : "Scanning",
+  "projectIndexingActivityHistory" : {
+    "projectName" : "MyNanoHttpd",
+    "times" : {
+      "scanningReason" : "changes in: \"Module 'MyNanoHttpd.app.main' (out)\"",
+      "scanningType" : "PARTIAL",
+      "scanningId" : 2,
+      "creatingIteratorsTime" : 0,
+      "concurrentHandlingWallTimeWithoutPauses" : 0,
+      "concurrentHandlingWallTimeWithPauses" : 0,
+      "concurrentHandlingSumOfThreadTimesWithPauses" : 771650,
+      "concurrentIterationAndScannersApplicationSumOfThreadTimesWithPauses" : 132030,
+      "concurrentFileCheckSumOfThreadTimesWithPauses" : 511910,
+      "delayedPushPropertiesStageTime" : 0,
+      "indexExtensionsTime" : 0,
+      "dumbWallTimeWithPauses" : 0,
+      "dumbWallTimeWithoutPauses" : 0,
+      "updatingStart" : "2025-02-13T06:06:00.550079Z",
+      "updatingEnd" : "2025-02-13T06:06:00.555906Z",
+      "totalWallTimeWithPauses" : 5829662,
+      "wallTimeOnPause" : 268000,
+      "wasInterrupted" : false,
+      "totalWallTimeWithoutPauses" : 5561662
+    },
+    "fileCount" : {
+      "numberOfFileProviders" : 1,
+      "numberOfScannedFiles" : 0,
+      "numberOfFilesIndexedByInfrastructureExtensionsDuringScan" : 0,
+      "numberOfFilesScheduledForIndexingAfterScan" : 0
+    },
+    "scanningStatistics" : [ {
+      "providerName" : "Module 'MyNanoHttpd.app.main' (out)",
+      "numberOfScannedFiles" : 0,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 0,
+      "totalOneThreadTimeWithPauses" : 771650,
+      "iterationAndScannersApplicationTime" : 132030,
+      "filesCheckTime" : 511910,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 0,
+      "timeIndexingWithoutContentViaInfrastructureExtension" : 0,
+      "roots" : [ ]
+    } ]
+  }
+}

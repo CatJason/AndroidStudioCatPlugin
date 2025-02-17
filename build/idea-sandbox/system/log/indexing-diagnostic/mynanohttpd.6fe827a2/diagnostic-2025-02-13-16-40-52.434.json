@@ -1,0 +1,79 @@
+{
+  "appInfo" : {
+    "build" : "242.23726.103.2422.12816248",
+    "buildDate" : "2024-12-18T01:33:00Z[UTC]",
+    "productCode" : "AI",
+    "generated" : "2025-02-13T08:40:52.435804Z",
+    "os" : "macOS 15.3",
+    "runtime" : "JetBrains s.r.o. 21.0.4 21.0.4+-12422083-b607.1"
+  },
+  "runtimeInfo" : {
+    "maxMemory" : 2147483648,
+    "numberOfProcessors" : 32,
+    "maxNumberOfIndexingThreads" : 31,
+    "maxSizeOfFileForIntelliSense" : 2560000,
+    "maxSizeOfFileForContentLoading" : 20971520
+  },
+  "type" : "Scanning",
+  "projectIndexingActivityHistory" : {
+    "projectName" : "MyNanoHttpd",
+    "times" : {
+      "scanningReason" : "On project open",
+      "scanningType" : "PARTIAL_ON_PROJECT_OPEN",
+      "scanningId" : 0,
+      "creatingIteratorsTime" : 0,
+      "concurrentHandlingWallTimeWithoutPauses" : 0,
+      "concurrentHandlingWallTimeWithPauses" : 0,
+      "concurrentHandlingSumOfThreadTimesWithPauses" : 11093194,
+      "concurrentIterationAndScannersApplicationSumOfThreadTimesWithPauses" : 2279202,
+      "concurrentFileCheckSumOfThreadTimesWithPauses" : 6160992,
+      "delayedPushPropertiesStageTime" : 0,
+      "indexExtensionsTime" : 0,
+      "dumbWallTimeWithPauses" : 0,
+      "dumbWallTimeWithoutPauses" : 0,
+      "updatingStart" : "2025-02-13T08:40:52.219517Z",
+      "updatingEnd" : "2025-02-13T08:40:52.432874Z",
+      "totalWallTimeWithPauses" : 213370865,
+      "wallTimeOnPause" : 1156000,
+      "wasInterrupted" : false,
+      "totalWallTimeWithoutPauses" : 212214865
+    },
+    "fileCount" : {
+      "numberOfFileProviders" : 2,
+      "numberOfScannedFiles" : 0,
+      "numberOfFilesIndexedByInfrastructureExtensionsDuringScan" : 0,
+      "numberOfFilesScheduledForIndexingAfterScan" : 0
+    },
+    "scanningStatistics" : [ {
+      "providerName" : "dirty files iterator (from orphan queue=true)",
+      "numberOfScannedFiles" : 0,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 0,
+      "totalOneThreadTimeWithPauses" : 5548462,
+      "iterationAndScannersApplicationTime" : 1168871,
+      "filesCheckTime" : 3083961,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 0,
+      "timeIndexingWithoutContentViaInfrastructureExtension" : 0,
+      "roots" : [ ]
+    }, {
+      "providerName" : "dirty files iterator (from orphan queue=false)",
+      "numberOfScannedFiles" : 0,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 0,
+      "totalOneThreadTimeWithPauses" : 5544732,
+      "iterationAndScannersApplicationTime" : 1110331,
+      "filesCheckTime" : 3077031,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 0,
+      "timeIndexingWithoutContentViaInfrastructureExtension" : 0,
+      "roots" : [ ]
+    } ]
+  }
+}
