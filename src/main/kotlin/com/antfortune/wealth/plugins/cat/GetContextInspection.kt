@@ -39,7 +39,8 @@ class GetContextInspection : AbstractBaseJavaLocalInspectionTool() {
                             holder.registerProblem(
                                 expression,
                                 "不允许在 Fragment 中使用 getContext 方法喵\n调用 'getContext()' 可能导致空指针异常：Fragment 可能尚未附加到 Activity，返回 null",
-                                ProblemHighlightType.ERROR
+                                ProblemHighlightType.ERROR,
+                                DeleteContextCallQuickFix()
                             )
 
                             logger.info("已注册问题：删除 Fragment 中的 getContext 方法调用")
