@@ -43,6 +43,6 @@ Android Studio 朕小猫辅助插件<br>
                 groupKey="group.names.probable.bugs"
                 enabledByDefault="true"
                 level="WARNING"
-                implementationClass="com.antfortune.wealth.plugins.cat.recycleview.RecycleviewInspection"/>
+                implementationClass="com.antfortune.wealth.plugins.cat.recycleview.RecycleViewInspection"/>
     </extensions>
 </idea-plugin>

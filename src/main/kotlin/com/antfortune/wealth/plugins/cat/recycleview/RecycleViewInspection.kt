@@ -7,7 +7,7 @@ import com.intellij.codeInspection.ProblemsHolder
 import com.intellij.psi.*
 import com.intellij.psi.util.PsiTreeUtil
 
-class RecycleviewInspection : AbstractBaseJavaLocalInspectionTool() {
+class RecycleViewInspection : AbstractBaseJavaLocalInspectionTool() {
 
     // 创建检查方法，遍历代码
     override fun buildVisitor(holder: ProblemsHolder, isOnTheFly: Boolean): JavaElementVisitor {
@@ -43,7 +43,8 @@ class RecycleviewInspection : AbstractBaseJavaLocalInspectionTool() {
                     holder.registerProblem(
                         method,
                         "onBindViewHolder方法没有对position进行越界检查",
-                        ProblemHighlightType.GENERIC_ERROR
+                        ProblemHighlightType.GENERIC_ERROR,
+                        AddPositionCheckQuickFix()
                     )
                 }
 
