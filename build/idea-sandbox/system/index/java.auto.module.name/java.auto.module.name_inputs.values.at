@@ -1,76 +1,0 @@
-/Header Record For PersistentHashMapValueStoragegroovy.dateutilgroovy.astbuildergroovy.datetime
-groovy.ant
-groovy.niogroovy.groovydocgroovy.templatesgroovy.json
-groovy.sqlgradle.installation.beacongroovy.test# gradle.kotlin.dsl.tooling.modelsgradle.settings.apigradle.kotlin.dsl.extensions
-groovy.xml
-tracker
-lint.model2/android.test.plugin.host.emulator.control.protomanifest.merger	shared+(android.test.plugin.host.retention.protobuilder.test.api
-repositorydvlibkotlin.stdlib.jdk8layoutlib.apibuilder.modelkotlin.stdlib.commonaaptcompilerjetifier.corekotlin.stdlib.jdk7jetifier.processorannotationskotlin.gradle.plugin.modeljavaparser.core	sdklibgroovy.console	commonkotlin.gradle.plugin.api	ddmlibdatabinding.compiler.common
-gradle.apilint.typedef.removercrashdatabinding.commonbaseLibrarykotlin.stdlib.common'$android.device.provider.ddmlib.proto'$android.device.provider.gradle.proto85android.test.plugin.host.additional.test.output.proto*'android.test.plugin.host.coverage.proto(%android.test.plugin.host.logcat.prototransform.api/,android.test.plugin.host.apk.installer.protokotlin.stdlibgradle.core.api30android.test.plugin.result.listener.gradle.protoasm.commonsaapt2.protoasm.utilhttpmimeasm.analysisasm.treeasmgrpc.protobufjavapoetjopt.simplegradle.kotlin.dslprotobuf.java.util	grpc.stubkxml2
-apkzlibflatbuffers.java
-commons.io
-grpc.nettygsonkotlin.gradle.plugin.ideakotlin.project.modelkotlin.build.tools.apikotlin.tooling.corekotlin.klib.commonizer.apikotlin.stdlibkotlin.compiler.runner
-sdk.commontensorflow.lite.metadatagrpc.context
-core.protogrpc.protobuf.litejavax.inject,)kotlin.scripting.compiler.impl.embeddable	grpc.corejimfskotlin.util.klib'$kotlin.scripting.compiler.embeddable	daggerkotlin.android.extensionssignflingerkotlin.native.utilsjaxb.runtimeannotationsproto.google.common.protosgrpc.apijavax.activationjavax.annotation.api
-zipflingerprotobuf.javajuniversalchardetbcpkix.jdk15onistack.commons.runtime
-stax.extxw2jakarta.activation.apierror.prone.annotationsauto.value.annotationsjakarta.xml.bind.api	slf4j.apiFastInfosethttpcorej2objc.annotationsannotationsperfmark.apianimal.sniffer.annotations
-trove4jtinknetty.handler.proxy	jsr305%"netty.transport.native.unix.commonkotlin.reflect
-javawriterjdom2# kotlin.gradle.plugin.annotationskotlin.util.io	jose4jcommons.compressnetty.codec.http2failureaccess
-httpclientlistenablefuturekotlin.reflectcommons.codeccommons.loggingkotlin.daemon.embeddable	apksigkotlin.scripting.commonkotlin.scripting.jvmnetty.handlernetty.codec.httpnetty.resolvernetty.codec.socksjnanetty.bufferkotlin.daemon.clientchecker.qual"kotlin.gradle.plugin.idea.protonetty.codecgradle.corenetty.transportjna.platformnetty.commonkotlinx.coroutines.core.jvmguava	protos	groovybcprov.jdk15on	gradle
-builder
-bundletoolkotlin.gradle.pluginkotlin.compiler.embeddable
-gradle.apilifecycle.commonlifecycle.commonconcurrent.futures.ktx
-classesconcurrent.futures.ktxlegacy.support.core.utils
-classes
-classesannotation.experimentalcore.runtimecore.commoncore.common
-classes
-classes
-classes
-classes
-classescoordinatorlayoutcore.runtimecursoradapterconcurrent.futures
-classesconcurrent.futuresdocumentfileinterpolator
-classes
-classes
-classes
-customviewlifecycle.livedata.core
-classes
-classes
-classescardview
-classeslocalbroadcastmanagerprintlifecycle.runtime
-classes
-classesespresso.idling.resource
-classes
-classes
-classeslifecycle.livedatajunit	loaderdrawerlayout
-classeslifecycle.viewmodel
-tracing!lifecycle.viewmodel.savedstate
-collection
-collection
-classes
-storage
-classesjavax.inject.1.sources	jsr305
-classesvectordrawable.animatedvectordrawableannotation.jvm
-classes
-classes
-classeslistenablefuture resourceinspection.annotation
-classes	viewpager resourceinspection.annotationannotation.jvmappcompat.resources
-classeskotlin.stdlib.jdk7kotlin.stdlib.jdk7
-classeskotlin.stdlib.jdk8kotlin.stdlib.jdk8
-viewpager2collection.jvmlistenablefutureerror.prone.annotationsannotationscoreerror.prone.annotationscollection.jvmkotlinx.coroutines.android
-classes
-classes
-classes
-savedstatehamcrest.corehamcrest.librarykotlinx.coroutines.android	nanohttpd
-classeshamcrest.corehamcrest.library	nanohttpdversionedparcelablecore.ktx
-transitiondynamicanimationrecyclerview
-classes
-classes
-classesactivityconstraintlayout
-monitor
-classesfragmentkotlin.stdlib.commonkotlin.stdlib.common
-classes	runner
-classesjunitjunitespresso.core
-classes	appcompatkotlinx.coroutines.core.jvmkotlinx.coroutines.core.jvmkotlin.stdlibkotlin.stdlib
-classescorecore
-classesmaterial
-android
